@@ -9,4 +9,3 @@ app.listen(PORT, (error) => {
   if (error) console.log(error);
   else console.log("SERVER RUN ON PORT: ", PORT);
 });
-// app.listen(8000);
